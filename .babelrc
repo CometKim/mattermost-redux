@@ -11,6 +11,6 @@
       "root": ["./src", "."]
     }],
     "syntax-object-rest-spread",
-    "syntax-class-properties"
+    "transform-class-properties"
   ]
 }
